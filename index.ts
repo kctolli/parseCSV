@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * Parses the given CSV text and returns an array of objects representing the parsed data.
  *

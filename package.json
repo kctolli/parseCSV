@@ -1,0 +1,16 @@
+{
+  "name": "@kctolli/parsecsv",
+  "version": "1.0.0",
+  "description": "Parses csv into Json to make it readable in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "parse"
+  ],
+  "author": "kctolli",
+  "license": "GPL-3.0-or-later"
+}

@@ -19,6 +19,7 @@ const parseCSV = (csvText) => {
         for (let j = 0; j < headers.length; j++) {
             rowObject[headers[j]] = rowData[j];
         }
+        // @ts-ignore
         data.push(rowObject);
     }
     return data;
